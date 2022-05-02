@@ -21,6 +21,7 @@ Developed by: Ragul M
 RegisterNumber: 212221230080 
 */
 ```
+~~~
 import pandas as pd
 data=pd.read_csv("/content/Placement_Data.csv")
 data.head()
@@ -61,7 +62,7 @@ from sklearn.metrics import classification_report
 classification=classification_report(y_test,y_pred)
 print(classification)
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
-
+~~~
 ## Output:
 ![output]()
 ![output]()
