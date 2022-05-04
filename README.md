@@ -8,13 +8,20 @@ To write a program to implement the the Logistic Regression Model to Predict the
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-### Import the standard libraries.
-### Upload the dataset and check for any null or duplicated values using .isnull() and .duplicated() function respectively.
-### Import LabelEncoder and encode the dataset.
-### Import LogisticRegression from sklearn and apply the model on the dataset.
-### Predict the values of array.
-### Calculate the accuracy, confusion and classification report by importing the required modules from sklearn.
-### Apply new unknown values
+### STEP:1
+ Import the standard libraries.
+ ### STEP:2
+ Upload the dataset and check for any null or duplicated values using .isnull() and .duplicated() function respectively.
+ ### STEP:3
+ Import LabelEncoder and encode the dataset.
+ ### STEP:4
+ Import LogisticRegression from sklearn and apply the model on the dataset.
+ ### STEP:5
+ Predict the values of array.
+ ### STEP:6
+Calculate the accuracy, confusion and classification report by importing the required modules from sklearn.
+### STEP:7
+Apply new unknown values
 ~~~
 ## Program:
 ```
