@@ -82,6 +82,6 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ## Confusion Matrix:
 ![pic 4](https://github.com/ragulmani936/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/pic%204.png)
 ## Classification Report:
-![pic 5]()
+![pic 5](https://github.com/ragulmani936/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/pic%205.png)
 ##  Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
