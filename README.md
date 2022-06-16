@@ -76,7 +76,7 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ## Head:
 ![pic 1](https://github.com/ragulmani936/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/pic%201.png)
 ## Predicted Values:
-![pic 2]()
+![pic 2](https://github.com/ragulmani936/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/pic%202.png)
 ## Accuracy:
 ![pic 3]()
 ## Confusion Matrix:
